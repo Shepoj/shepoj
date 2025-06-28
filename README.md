@@ -1,4 +1,4 @@
-# Joseph “Shepoj” Mdrs
+# Shepoj Mdrs
 
 
 
