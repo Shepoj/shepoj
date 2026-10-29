@@ -1,5 +1,5 @@
-# Shepoj Mdrs
+# Shep
 
 
 
-change the world, one mdrs at a time
+change the world
